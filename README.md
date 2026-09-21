@@ -285,58 +285,125 @@ Data-Driven Decision Making
 
 
 <!-- ========================= CERTIFICATIONS ========================= -->
-🏆 Certifications & Programs
-IBM — Make Agentic AI Work for You
-IBM — Generative AI in Action
-IBM — AI Fundamentals
-Bluestock Fintech — Data Analyst Internship
-RAYS IT & DESIGN WORLD — Python, Data Analytics & ML Training
-AICTE — Big Data Analytics Internship/Training
-Udemy — Data Analysis
-AI-Shield Workshop
-Business Model Competitions
-Innovation & Hackathon Programs
+
+## 🏆 Certifications & Programs
+
+- 🤖 **IBM — Make Agentic AI Work for You**
+- 🧠 **IBM — Generative AI in Action**
+- 💡 **IBM — AI Fundamentals**
+- 📊 **Bluestock Fintech — Data Analyst Internship**
+- 🐍 **RAYS IT & DESIGN WORLD — Python, Data Analytics & Machine Learning Training**
+- 📈 **AICTE — Big Data Analytics Internship / Training**
+- 📚 **Udemy — Data Analysis**
+- 🛡️ **AI-Shield Workshop**
+- 💼 **Business Model Competitions**
+- 🚀 **Innovation & Hackathon Programs**
+
+---
+
 <!-- ========================= ACHIEVEMENTS ========================= -->
-🏅 Achievements & Activities
-🚀 Participated in AGRITHON 2026
-💡 Participated in innovation and business-model competitions
-🤖 Worked on AI & Data Analytics projects
-🏦 Built financial and banking analytics projects
-🏥 Built healthcare analytics projects
-🌾 Explored AI applications in agriculture
-🏆 Participated in technical and innovation programs
-🏐 State-Level Kabaddi Player
-<!-- ========================= GITHUB STATS ========================= -->
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajjais1232-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajjais1232-coder&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+## 🏅 Achievements & Activities
+
+- 🚀 Participated in **AGRITHON 2026**
+- 💡 Participated in **innovation and business-model competitions**
+- 🤖 Built and worked on **AI & Data Analytics projects**
+- 🏦 Developed **financial and banking analytics projects**
+- 🏥 Developed **healthcare analytics projects**
+- 🌾 Explored **AI applications in agriculture**
+- 🏆 Participated in **technical and innovation programs**
+- 🏐 **State-Level Kabaddi Player**
+
+---
+
+<!-- ========================= GITHUB ANALYTICS ========================= -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rajjais1232-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajjais1232-coder&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=rajjais1232-coder&theme=tokyonight&hide_border=true" /> </div>
-<!-- ========================= CONTRIBUTIONS ========================= -->
-🐍 Contribution Activity
-<div align="center"> <img src="https://raw.githubusercontent.com/rajjais1232-coder/rajjais1232-coder/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/> </div>
+<img src="https://streak-stats.demolab.com?user=rajjais1232-coder&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ========================= CONTRIBUTION ACTIVITY ========================= -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rajjais1232-coder/rajjais1232-coder/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
 <!-- ========================= OPEN TO ========================= -->
-🎯 Open To
+
+## 🎯 Open To
 
 I'm currently interested in opportunities related to:
 
-📊 Data Analyst Internships
-📈 Business Analyst Internships
-💼 Business Intelligence
-💰 Financial Data Analytics
-🐍 Python & Data Analytics
-🤖 AI & Machine Learning
-🏦 Risk Analytics
-🌾 Agriculture & Sustainability Analytics
-🤝 Let's Connect
+| Area | Interest |
+|---|---|
+| 📊 | **Data Analyst Internships** |
+| 📈 | **Business Analyst Internships** |
+| 💼 | **Business Intelligence** |
+| 💰 | **Financial Data Analytics** |
+| 🐍 | **Python & Data Analytics** |
+| 🤖 | **AI & Machine Learning** |
+| 🏦 | **Risk Analytics** |
+| 🌾 | **Agriculture & Sustainability Analytics** |
+
+---
+
+<!-- ========================= LET'S CONNECT ========================= -->
+
+## 🤝 Let's Connect
+
 <div align="center">
 
-If you're working on Data Analytics, Business Intelligence, AI, Machine Learning, Financial Analytics, or real-world technology projects, feel free to connect.
+<p>
+If you're working on <b>Data Analytics, Business Intelligence, AI, Machine Learning,
+Financial Analytics, or real-world technology projects</b>, feel free to connect.
+</p>
 
-<br> <a href="https://www.linkedin.com/in/raj-jaiswal-644782336"> <img src="https://img.shields.io/badge/LinkedIn-Raj%20Jaiswal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/rajjais1232-coder"> <img src="https://img.shields.io/badge/GitHub-rajjais1232--coder-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:rajjais1232@gmail.com"> <img src="https://img.shields.io/badge/Email-rajjais1232%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<br>
+
+<a href="https://www.linkedin.com/in/raj-jaiswal-644782336">
+<img src="https://img.shields.io/badge/LinkedIn-Raj%20Jaiswal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/rajjais1232-coder">
+<img src="https://img.shields.io/badge/GitHub-rajjais1232--coder-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="mailto:rajjais1232@gmail.com">
+<img src="https://img.shields.io/badge/Email-rajjais1232%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br><br>
 
-💡 "Turning Data Into Insights, and Ideas Into Solutions."
+### 💡 "Turning Data Into Insights, and Ideas Into Solutions."
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=rajjais1232-coder&label=Profile%20Views&color=0e75b6&style=flat)
+
 </div>
